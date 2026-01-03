@@ -1,6 +1,7 @@
 from utils.loader import load_campus_map
 from services.navigator import find_shortest_path
 from ui.cli import run_cli
+from visualization.ascii_path import draw_ascii_path
 from colorama import Fore, Style
 
 def main():
@@ -16,7 +17,7 @@ def main():
 
     if path:
         print(Fore.CYAN + "\n✅ Shortest Path Found:\n")
-        print(Fore.MAGENTA + " → ".join(path))
+        draw_ascii_path(path)
         print(Fore.GREEN + f"\n⏱️ Estimated Time: {round(time,2)} minutes")
     else:
         print(Fore.RED + "❌ No path found")

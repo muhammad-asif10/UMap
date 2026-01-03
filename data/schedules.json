@@ -1,0 +1,391 @@
+{
+  "timetables": {
+    "Lecture Hall (CS)": {
+      "Room 1": [
+        {
+          "day": "Monday",
+          "start": "08:00",
+          "end": "09:00",
+          "subject": "Applied Physics",
+          "teacher": "Ms. Aasia",
+          "class": "BSCS 3rd (Section-A)"
+        },
+        {
+          "day": "Monday",
+          "start": "09:00",
+          "end": "10:00",
+          "subject": "Artificial Intelligence",
+          "teacher": "Dr. Fareed",
+          "class": "BSCS 3rd (Section-A)"
+        },
+        {
+          "day": "Monday",
+          "start": "10:00",
+          "end": "11:00",
+          "subject": "Artificial Intelligence",
+          "teacher": "Dr. Fareed",
+          "class": "BSCS 3rd (Section-B)"
+        },
+        {
+          "day": "Monday",
+          "start": "11:00",
+          "end": "12:00",
+          "subject": "Artificial Intelligence",
+          "teacher": "Dr. Fareed",
+          "class": "BSCS 3rd (Evening)"
+        },
+        {
+          "day": "Monday",
+          "start": "12:00",
+          "end": "13:00",
+          "subject": "Software Engineering",
+          "teacher": "Ms. Ramiza",
+          "class": "BSCS 3rd (Section-B)"
+        },
+        {
+          "day": "Tuesday",
+          "start": "08:00",
+          "end": "09:00",
+          "subject": "Applied Physics",
+          "teacher": "Ms. Aasia",
+          "class": "BSCS 3rd (Section-B)"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:00",
+          "end": "10:00",
+          "subject": "Artificial Intelligence",
+          "teacher": "Dr. Fareed",
+          "class": "BSCS 3rd (Section-B)"
+        },
+        {
+          "day": "Tuesday",
+          "start": "10:00",
+          "end": "11:00",
+          "subject": "Artificial Intelligence",
+          "teacher": "Dr. Fareed",
+          "class": "BSCS 3rd (Section-A)"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:00",
+          "end": "12:00",
+          "subject": "Artificial Intelligence",
+          "teacher": "Dr. Fareed",
+          "class": "BSCS 3rd (Evening)"
+        },
+        {
+          "day": "Wednesday",
+          "start": "08:00",
+          "end": "09:00",
+          "subject": "Software Engineering",
+          "teacher": "Ms. Ramiza",
+          "class": "BSCS 3rd (Section-A)"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:00",
+          "end": "10:00",
+          "subject": "Data Structures",
+          "teacher": "Mr. Azeem",
+          "class": "BSCS 3rd (Section-B)"
+        },
+        {
+          "day": "Wednesday",
+          "start": "10:00",
+          "end": "11:00",
+          "subject": "Software Engineering",
+          "teacher": "Ms. Ramiza",
+          "class": "BSCS 3rd (Section-B)"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:00",
+          "end": "12:00",
+          "subject": "Data Structures",
+          "teacher": "Mr. Azeem",
+          "class": "BSCS 3rd (Evening)"
+        },
+        {
+          "day": "Wednesday",
+          "start": "12:00",
+          "end": "13:00",
+          "subject": "Computer Networks",
+          "teacher": "Mr. Naveed",
+          "class": "BSCS 3rd (Section-B)"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:00",
+          "end": "14:00",
+          "subject": "Multivariable Calculus",
+          "teacher": "Mr. Mubashar",
+          "class": "BSCS 3rd (Section-B)"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:00",
+          "end": "15:00",
+          "subject": "Multivariable Calculus",
+          "teacher": "Dr. Mubashar",
+          "class": "BSCS 3rd (Evening)"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:00",
+          "end": "10:00",
+          "subject": "Data Structures",
+          "teacher": "Mr. Azeem",
+          "class": "BSCS 3rd (Section-A)"
+        },
+        {
+          "day": "Thursday",
+          "start": "10:00",
+          "end": "11:00",
+          "subject": "Data Structures",
+          "teacher": "Mr. Azeem",
+          "class": "BSCS 3rd (Section-B)"
+        },
+        {
+          "day": "Thursday",
+          "start": "12:00",
+          "end": "13:00",
+          "subject": "Software Engineering",
+          "teacher": "Ms. Ramiza",
+          "class": "BSCS 3rd (Section-B)"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:00",
+          "end": "14:00",
+          "subject": "Multivariable Calculus",
+          "teacher": "Mr. Mubashar",
+          "class": "BSCS 3rd (Section-B)"
+        },
+        {
+          "day": "Friday",
+          "start": "08:00",
+          "end": "09:00",
+          "subject": "Data Structures",
+          "teacher": "Mr. Azeem",
+          "class": "BSCS 3rd (Section-A)"
+        },
+        {
+          "day": "Friday",
+          "start": "09:00",
+          "end": "10:00",
+          "subject": "Data Structures",
+          "teacher": "Mr. Azeem",
+          "class": "BSCS 3rd (Section-B)"
+        },
+        {
+          "day": "Friday",
+          "start": "12:00",
+          "end": "13:00",
+          "subject": "Data Structures",
+          "teacher": "Mr. Azeem",
+          "class": "BSCS 3rd (Evening)"
+        },
+        {
+          "day": "Friday",
+          "start": "12:10",
+          "end": "13:10",
+          "subject": "Multivariable Calculus",
+          "teacher": "Mr. Mubashar",
+          "class": "BSCS 3rd (Section-A)"
+        },
+        {
+          "day": "Friday",
+          "start": "13:10",
+          "end": "14:10",
+          "subject": "Multivariable Calculus",
+          "teacher": "Mr. Mubashar",
+          "class": "BSCS 3rd (Section-B)"
+        },
+        {
+          "day": "Friday",
+          "start": "14:10",
+          "end": "15:10",
+          "subject": "Multivariable Calculus",
+          "teacher": "Mr. Mubashar",
+          "class": "BSCS 3rd (Evening)"
+        },
+        {
+          "day": "Friday",
+          "start": "14:00",
+          "end": "15:00",
+          "subject": "Applied Physics",
+          "teacher": "Ms. Aasia",
+          "class": "BSCS 3rd (Section-B)"
+        }
+      ],
+      "Room 2": [
+        {
+          "day": "Monday",
+          "start": "09:00",
+          "end": "10:00",
+          "subject": "Applied Physics",
+          "teacher": "Ms. Aasia",
+          "class": "BSCS 3rd (Evening)"
+        },
+        {
+          "day": "Monday",
+          "start": "10:00",
+          "end": "11:00",
+          "subject": "Software Engineering",
+          "teacher": "Ms. Ramiza",
+          "class": "BSCS 3rd (Section-A)"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:00",
+          "end": "10:00",
+          "subject": "Software Engineering",
+          "teacher": "Ms. Ramiza",
+          "class": "BSCS 3rd (Section-B)"
+        },
+        {
+          "day": "Wednesday",
+          "start": "10:00",
+          "end": "11:00",
+          "subject": "Multivariable Calculus",
+          "teacher": "Dr. Mubashar",
+          "class": "BSCS 3rd (Section-A)"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:00",
+          "end": "14:00",
+          "subject": "Multivariable Calculus",
+          "teacher": "Dr. Mubashar",
+          "class": "BSCS 3rd (Section-A)"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:00",
+          "end": "15:00",
+          "subject": "Computer Networks",
+          "teacher": "Mr. Naveed",
+          "class": "BSCS 3rd (Section-A)"
+        },
+        {
+          "day": "Thursday",
+          "start": "10:00",
+          "end": "11:00",
+          "subject": "Software Engineering",
+          "teacher": "Ms. Ramiza",
+          "class": "BSCS 3rd (Evening)"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:00",
+          "end": "15:00",
+          "subject": "Applied Physics",
+          "teacher": "Ms. Aasia",
+          "class": "BSCS 3rd (Section-A)"
+        }
+      ],
+      "Room DVM2": [
+        {
+          "day": "Monday",
+          "start": "10:00",
+          "end": "11:00",
+          "subject": "Applied Physics",
+          "teacher": "Ms. Aasia",
+          "class": "BSCS 3rd (Evening)"
+        },
+        {
+          "day": "Monday",
+          "start": "12:00",
+          "end": "13:00",
+          "subject": "Computer Networks",
+          "teacher": "Mr. Naveed",
+          "class": "BSCS 3rd (Evening)"
+        },
+        {
+          "day": "Monday",
+          "start": "13:00",
+          "end": "14:00",
+          "subject": "Computer Networks",
+          "teacher": "Mr. Naveed",
+          "class": "BSCS 3rd (Section-B)"
+        },
+        {
+          "day": "Monday",
+          "start": "14:00",
+          "end": "15:00",
+          "subject": "Software Engineering",
+          "teacher": "Ms. Ramiza",
+          "class": "BSCS 3rd (Evening)"
+        },
+        {
+          "day": "Tuesday",
+          "start": "10:00",
+          "end": "11:00",
+          "subject": "Data Structures",
+          "teacher": "Mr. Azeem",
+          "class": "BSCS 3rd (Evening)"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:00",
+          "end": "12:00",
+          "subject": "Computer Networks",
+          "teacher": "Mr. Naveed",
+          "class": "BSCS 3rd (Section-A)"
+        },
+        {
+          "day": "Wednesday",
+          "start": "12:00",
+          "end": "13:00",
+          "subject": "Data Structures",
+          "teacher": "Mr. Azeem",
+          "class": "BSCS 3rd (Section-A)"
+        },
+        {
+          "day": "Wednesday",
+          "start": "12:00",
+          "end": "13:00",
+          "subject": "Multivariable Calculus",
+          "teacher": "Mr. Mubashar",
+          "class": "BSCS 3rd (Section-A)"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:00",
+          "end": "14:00",
+          "subject": "Software Engineering",
+          "teacher": "Ms. Ramiza",
+          "class": "BSCS 3rd (Evening)"
+        },
+        {
+          "day": "Friday",
+          "start": "12:10",
+          "end": "13:10",
+          "subject": "Computer Networks",
+          "teacher": "Mr. Naveed",
+          "class": "BSCS 3rd (Section-B)"
+        }
+      ]
+    }
+  },
+  "restrictions": [
+    {
+      "from": "Ayesha Girls Hostel",
+      "to": ["Gate 1", "Gate 2"],
+      "start": "17:00",
+      "end": "06:00",
+      "message": "You cannot leave the hostel after 5:00 PM."
+    }
+  ],
+  "facilities": {
+    "Gym": {
+      "Male": {"start": "06:00", "end": "09:00"},
+      "Female": {"start": "16:00", "end": "18:00"}
+    },
+    "Pool": {
+       "Male": {"start": "17:00", "end": "19:00"},
+       "Female": {"start": "10:00", "end": "12:00"}
+    }
+  }
+}

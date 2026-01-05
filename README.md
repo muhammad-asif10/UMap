@@ -1,6 +1,6 @@
 # UMap
 
-A Python-based command-line application that helps users navigate the campus by finding the shortest path between two locations. This project demonstrates the application of Data Structures and Algorithms, specifically Graph theory and Dijkstra's algorithm.
+A Python-based command-line application that helps users navigate the campus by finding the shortest path between two locations also tell the exact time in a Class at a time with it duration. This project demonstrates the application of Data Structures and Algorithms, specifically Graph theory and Dijkstra's algorithm.
 
 ## Features
 
